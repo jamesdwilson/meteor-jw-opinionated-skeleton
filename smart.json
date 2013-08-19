@@ -1,0 +1,17 @@
+{
+  "packages": {
+    "npm": {},
+    "collection2": {},
+    "autoform": {},
+    "roles": {},
+    "managedUsers": {},
+    "iron-router": {},
+    "bootboxjs": {},
+    "observatory": {},
+    "event-hooks": {},
+    "profile-online": {},
+    "moment-alternative": {},
+    "bootstrap-themes": {},
+    "headers": {}
+  }
+}

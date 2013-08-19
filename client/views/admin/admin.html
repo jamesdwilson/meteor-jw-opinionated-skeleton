@@ -1,0 +1,7 @@
+<template name="admin">
+    {{#if isAdmin}}
+    {{> managedUsers}}
+    {{else}}
+    <div class="well text-error"><h2>Error</h2> You are not an admin.</div>
+    {{/if}}
+</template>

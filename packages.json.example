@@ -1,0 +1,5 @@
+EXAMPLE NPM integration - REMOVE THIS LINE & rename this file to "packages.json" - https://github.com/arunoda/meteor-npm
+{
+  "redis": "0.8.2",
+  "github": "0.1.8"
+}
