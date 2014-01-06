@@ -3,6 +3,9 @@ JW's Opinionated Meteor Skeleton
 
 _Compatible with 0.6.5 of the Meteor/nodejs web development framework._
 
+Thanks to [Roland Flanagan](/flanamacca) for contributions as well!
+
+
 A collection of packages and a good starting point for building my next meteor project.
 
 You may also find it useful. ;) But I wrote this for me, I love Coffeescript, and you may not, so feel free to change this to use whatever languages and packages you want.
