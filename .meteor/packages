@@ -14,10 +14,10 @@ autoform
 roles
 managedUsers
 iron-router
-bootboxjs
 event-hooks
 observatory
 profile-online
 moment-alternative
 less
 bootstrap-themes
+bootstrap-3
