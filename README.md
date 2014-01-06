@@ -1,7 +1,7 @@
 JW's Opinionated Meteor Skeleton
 ============
 
-_Compatible with 0.6.5 of the Meteor/nodejs web development framework._
+_Compatible with 0.7.0.1 of the [Meteor/nodejs](http://meteor.com) web development framework._
 
 Thanks to [Roland Flanagan](https://github.com/flanamacca) for contributions as well!
 
