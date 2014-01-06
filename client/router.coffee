@@ -6,11 +6,11 @@ Subscriptions = []
 
 
 Router.configure
-  layout: 'layout'
+  layoutTemplate: 'layout'
   notFoundTemplate: 'notfound'
   loadingTemplate: 'loading'
   waitOn: Subscriptions
-  renderTemplates:
+  yieldTemplates:
     'nav':
       to: 'nav'
 

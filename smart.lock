@@ -14,28 +14,29 @@
       "profile-online": {},
       "moment-alternative": {},
       "bootstrap-themes": {},
-      "headers": {}
+      "headers": {},
+      "bootstrap-3": {}
     },
     "packages": {
       "npm": {
         "git": "https://github.com/arunoda/meteor-npm.git",
-        "tag": "v0.2.2",
-        "commit": "ad83acff83385d5ea05997c8bbc2d7493ba4c04e"
+        "tag": "v0.2.6",
+        "commit": "177ab6118de5bf8cffb19481343d5762ff7a2aaf"
       },
       "collection2": {
         "git": "https://github.com/aldeed/meteor-collection2.git",
-        "tag": "v0.1.4",
-        "commit": "43ce25ecdd6317adee87844beaf6d4292e98ab17"
+        "tag": "v0.2.17",
+        "commit": "186cc58040764b816392e19178ba373bda7a91c6"
       },
       "autoform": {
         "git": "https://github.com/aldeed/meteor-autoform.git",
-        "tag": "v0.1.6",
-        "commit": "87c71f93292984772c55ede34555322ac84b2107"
+        "tag": "v0.4.7",
+        "commit": "66c2fdbe40dcd3f75a9c93b5916d1595ee9cf394"
       },
       "roles": {
         "git": "https://github.com/alanning/meteor-roles.git",
-        "tag": "v1.0.6",
-        "commit": "f81cbf7c765a4ed7e16a580c288db6f10a90856b"
+        "tag": "v1.2.6",
+        "commit": "f2a9058281f8f2fe028767841d7445aadd6893cf"
       },
       "managedUsers": {
         "git": "https://github.com/jzgoda/managedUsers.git",
@@ -43,9 +44,9 @@
         "commit": "becaa15e37cddb28d0da26bb57015c92242d2915"
       },
       "iron-router": {
-        "git": "https://github.com/EventedMind/meteor-iron-router.git",
-        "tag": "v0.5.3",
-        "commit": "f737b04106a226c0f8772b9112673a9be49406d7"
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.6.1",
+        "commit": "4e1ee0581d68bff422a915dacb0bd30eae10fe08"
       },
       "bootboxjs": {
         "git": "https://github.com/TimHeckel/meteor-bootboxjs.git",
@@ -54,13 +55,13 @@
       },
       "observatory": {
         "git": "https://github.com/jhoxray/observatory.git",
-        "tag": "v0.2.53",
-        "commit": "7d6ccd5dd8677ebd5ff13be0219992ed026d7f83"
+        "tag": "v0.3.21",
+        "commit": "3d6b436af0a70b784d0f9ec4709907c77bd4fd63"
       },
       "event-hooks": {
         "git": "https://github.com/BenjaminRH/meteor-event-hooks.git",
-        "tag": "v1.4.2",
-        "commit": "feb1df170a4fbfce5544115389496e298054eb90"
+        "tag": "v1.4.3",
+        "commit": "ba4f3d7887748458618d29615492906f0c88d31c"
       },
       "profile-online": {
         "git": "https://github.com/erundook/meteor-profile-online.git",
@@ -79,18 +80,33 @@
       },
       "headers": {
         "git": "https://github.com/gadicohen/meteor-headers.git",
-        "tag": "v0.0.2",
-        "commit": "b0a42698a03888a6bd72f3e92b321aa58688e57b"
+        "tag": "v0.0.12",
+        "commit": "33fff7cfc874140cf5d51f93de8b7c20acad4fe8"
+      },
+      "bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+        "tag": "v0.3.7",
+        "commit": "5dd0d142c870647b910be80bc777b96f0dd45e5e"
       },
       "simple-schema": {
         "git": "https://github.com/aldeed/meteor-simple-schema.git",
-        "tag": "v0.1.7",
-        "commit": "149af44bf948319c4e890683171c4a80938591b9"
+        "tag": "v0.2.25",
+        "commit": "277917a78e8a86123a2d99ec0f9d4bb14b7815f5"
+      },
+      "moment": {
+        "git": "https://github.com/acreeger/meteor-moment.git",
+        "tag": "v2.2.1",
+        "commit": "9ee12e714afe56b189f53076447b7b54f3012065"
       },
       "observatory-apollo": {
         "git": "https://github.com/superstringsoftware/observatory-apollo.git",
+        "tag": "v0.3.2",
+        "commit": "f704848187a4da2bd179864ae80a1f73a3fd22a6"
+      },
+      "observatory-galileo": {
+        "git": "https://github.com/superstringsoftware/observatory-galileo.git",
         "branch": "master",
-        "commit": "e1ae0ba6751314398710b3e26ba4b9c09f371693"
+        "commit": "f21b80e6502d38a7ce66206374b706f2cbd0228d"
       }
     }
   }
