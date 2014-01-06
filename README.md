@@ -3,7 +3,7 @@ JW's Opinionated Meteor Skeleton
 
 _Compatible with 0.6.5 of the Meteor/nodejs web development framework._
 
-Thanks to [Roland Flanagan](/flanamacca) for contributions as well!
+Thanks to [Roland Flanagan](https://github.com/flanamacca) for contributions as well!
 
 
 A collection of packages and a good starting point for building my next meteor project.
