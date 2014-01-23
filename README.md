@@ -10,7 +10,7 @@ A collection of packages and a good starting point for building my next meteor p
 
 You may also find it useful. ;) But I wrote this for me, I love Coffeescript, and you may not, so feel free to change this to use whatever languages and packages you want.
 
-##Strucutre
+##Structure
 I based most of the structure off of the wonderful [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq) with a few changes such as I chose `main.html` instead of `index.html` as `main.*` is loaded last.
 I also tried to incorporate any configuration settings, events, options, of each of the packages into the codebase for easy editing.
 
