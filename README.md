@@ -5,6 +5,7 @@ _Compatible with 0.7.0.1 of the [Meteor/nodejs](http://meteor.com) web developme
 
 Thanks to [Roland Flanagan](https://github.com/flanamacca) for contributions as well!
 
+**NOTE**: the are other, more actively maintained [Meteor boilerplates](https://github.com/themeteorchef/base/issues/1) out there. Since I don't have much time to maintain this project, if nobody steps in to fork it, I plan to discontinue it completely on January 1st, 2015.
 
 A collection of packages and a good starting point for building my next meteor project.
 
